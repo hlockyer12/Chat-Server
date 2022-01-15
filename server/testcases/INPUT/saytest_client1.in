@@ -1,0 +1,5 @@
+REGISTER user1 password1
+LOGIN user1 password1
+SAY alpha hello there
+CREATE alpha
+SAY alpha hello there

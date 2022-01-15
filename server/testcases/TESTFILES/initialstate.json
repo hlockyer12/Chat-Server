@@ -1,0 +1,31 @@
+{
+    "RegisterTests": {
+      "registertest_client1": "Failed",
+      "registertest_client2": "Failed"
+    },
+    "LoginTests": {
+      "logintest_client1": "Failed",
+      "logintest_client2": "Failed"
+    },
+    "CreateTests": {
+      "createtest_client1": "Failed",
+      "createtest_client2": "Failed"
+    },
+    "JoinTests": {
+      "jointest_client1": "Failed",
+      "jointest_client2": "Failed"
+    },
+    "ChannelsTests": {
+      "channelstest_client1": "Failed",
+      "channelstest_client2": "Failed"
+    },
+    "SayTests": {
+      "saytest_client1": "Failed",
+      "saytest_client2": "Failed",
+      "saytest_client3": "Failed"
+    },
+    "OtherTests": {
+      "othertest": "Failed"
+    }
+  }
+  

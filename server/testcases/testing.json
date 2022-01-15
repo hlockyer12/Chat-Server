@@ -1,0 +1,30 @@
+{
+  "RegisterTests": {
+    "registertest_client1": "Passed",
+    "registertest_client2": "Passed"
+  },
+  "LoginTests": {
+    "logintest_client1": "Passed",
+    "logintest_client2": "Passed"
+  },
+  "CreateTests": {
+    "createtest_client1": "Passed",
+    "createtest_client2": "Passed"
+  },
+  "JoinTests": {
+    "jointest_client1": "Passed",
+    "jointest_client2": "Passed"
+  },
+  "ChannelsTests": {
+    "channelstest_client1": "Passed",
+    "channelstest_client2": "Passed"
+  },
+  "SayTests": {
+    "saytest_client1": "Passed",
+    "saytest_client2": "Passed",
+    "saytest_client3": "Passed"
+  },
+  "OtherTests": {
+    "othertest": "Passed"
+  }
+}

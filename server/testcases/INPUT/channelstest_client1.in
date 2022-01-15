@@ -1,0 +1,7 @@
+REGISTER user1 password1
+LOGIN user1 password1
+CHANNELS
+CREATE charlie
+CHANNELS
+CREATE bravo
+CREATE alpha

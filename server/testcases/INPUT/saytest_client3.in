@@ -1,0 +1,7 @@
+REGISTER user3 password3
+LOGIN user3 password3
+JOIN alpha
+SAY bravo hey buddy
+SAY alpha hey buddy
+SAY alpha
+SAY

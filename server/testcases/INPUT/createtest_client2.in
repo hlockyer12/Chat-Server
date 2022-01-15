@@ -1,0 +1,6 @@
+CREATE channel2
+REGISTER user2 password2
+LOGIN user2 password2
+CREATE channel1
+CREATE channel2
+CHANNELS

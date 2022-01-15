@@ -1,0 +1,8 @@
+REGISTER user1 password1
+REGISTER user2 password2
+LOGIN
+LOGIN user1
+LOGIN user1 password2
+LOGIN user1 password1
+LOGIN user2 password2
+LOGIN user1 password1
